@@ -1,5 +1,5 @@
 #include "binary_trees.h"
-i
+
 /**
  * binary_tree_preorder - Function that traverses  binary
  * tree using pre-order traversal
